@@ -10,7 +10,7 @@ No fancy UI, because it is done quickly :)
 Although it is not necessary for that much small project, REDUX is used as a state management library for demo purposes. 
 
 clone: 
-https://github.com/facebook/create-react-app.
+https://github.com/turangok/asm-brandw-weather-app
 
 to install  ### yarn 
 
