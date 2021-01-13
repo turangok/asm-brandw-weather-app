@@ -3,11 +3,11 @@ Weather App Project
 you can try it from here: 
 https://asm-brandw-weather-app.vercel.app/
 
-This is a small weather app project  
+This is a small weather forecast application giving info about 5 big cities.  
 
-No fancy UI, because it is done quickly, because of that . 
+No fancy UI, because it is done quickly :)
 
-Although it is not necessary for that much small project, redux is used as a state management library for demo purposes. 
+Although it is not necessary for that much small project, REDUX is used as a state management library for demo purposes. 
 
 clone: 
 https://github.com/facebook/create-react-app.
